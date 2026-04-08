@@ -1,5 +1,4 @@
 import streamlit as st
-import transformers
 
 # This must be the first Streamlit command
 st.set_page_config(
